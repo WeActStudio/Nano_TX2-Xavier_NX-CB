@@ -6,7 +6,7 @@ Nano_TX2-Xavier_NX 载板外壳的 3D文件，完全兼容该载板，适用于�
 
 * 制作 + 渲染：Fusion 360
 
-  ![](E:\software\Git\GitRepository\Nano_TX2-Xavier_NX-CB\04_3D Model\model_case.png)
+  ![](model_case.png)
 
   
 
